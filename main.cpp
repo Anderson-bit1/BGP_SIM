@@ -1,5 +1,3 @@
-// BGP simulator for the CSE3150 course project.
-//
 // Supported usage:
 //   1) bgp_simulator --relationships <graph_file> --announcements <anns_csv>
 //                    --rov-asns <rov_asns_csv>
